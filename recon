@@ -1,0 +1,31 @@
+first youcan create a wildcard file to add all inscope wildcard. 
+example :-
+            nano wildcard
+            
+            and add (https://*.oyo.com) oyo.coom
+now save this file and you can see
+
+cat wildcad
+
+tool requirement 
+
+
+gau
+httprobe
+assetfinder
+html-tool
+gf
+.etc
+
+all tool avilable in tomnonnom github you can install hack pack , other waybackurls etc.
+
+link
+https://github.com/tomnomnom
+
+
+cat wildcard | assetfinder --subs-only | httprobe -c 50 | tee -a domains
+
+this is a onelinear command to find all wildcard subdomain
+
+comming soon....................................
+
